@@ -1,0 +1,6 @@
+,,Designation,,Height,,Shear Yielding Capacity,,Block Shear Capacity,,Moment Capacity,,Bolt Diameter,,Property Class,,Bolt Columns Supported Leg,,Bolt Rows Supported Leg,,Supported Leg Bearing Capacity,,Bolt Columns Supporting Leg,,Bolt Rows Supporting Leg,,Supporting Leg Bearing Capacity,,Bolt Value Supporting Leg,
+Sr. No.,OSI File Name,Value ,Test Status,Value ,Test Status,Value ,Test Status,Value ,Test Status,Value ,Test Status,Value ,Test Status,Value ,Test Status,Value ,Test Status,Value ,Test Status,Value,Test Status,Value,Test Status,Value,Test Status,Value,Test Status,Value,Test Status
+1,CleatAngleTest1,50x50x3,Pass,115,Pass,90.54,Pass,101.36,Pass,4.51,Pass,10,Pass,5.6,Pass,1,Pass,2,Pass,31.32,Pass,1,Pass,2,Pass,16.48,Pass,13.39,Pass
+2,CleatAngleTest2,60x60x4,Pass,130,Pass,136.46,Pass,124.08,Pass,7.68,Pass,8,Pass,6.8,Pass,1,Pass,6,Pass,20.55,Pass,1,Pass,6,Pass,15.22,Pass,10.14,Pass
+3,CleatAngleTest3,65x65x8,Pass,150,Pass,314.92,Pass,353.61,Pass,20.45,Pass,8,Pass,12.9,Pass,2,Pass,7,Pass,,,2,Pass,7,Pass,,,2.5,Pass
+4,CleatAngleTest4,50x50x3,Pass,150,Pass,118.09,Pass,125.77,Pass,7.67,Pass,8,Pass,4.8,Pass,1,Pass,3,Pass,15.05,Pass,1,Pass,3,Pass,12.2,Pass,7.1,Pass

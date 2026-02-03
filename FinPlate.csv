@@ -1,0 +1,6 @@
+,,Weld Size,Shear Capacity,Bearing Capacity,Bolt Grade,Bolt Rows,Bolt Diameter,,Capacity,,Bolt Columns,,Plate Thickness,,Plate Height,,Plate Length,,Weld Strength,,Weld Stress,,Moment Capacity,
+Sr. No.,OSI File Name,Value ,Value ,Value ,Value ,Value ,Value ,Test Status,Value ,Test Status,Value ,Test Status,Value ,Test Status,Value,Test Status,Value,Test Status,Value,Test Status,Value,Test Status,Value,Test Status
+1,FinPlateTest1,5,17.58,17.9,10.9,2,8,Pass,17.58,Pass,1,Pass,8,Pass,60,Pass,40,Pass,662.8,Pass,347.85,Pass,1.64,Pass
+2,FinPlateTest2,3,6.39,,10.9,2,8,Pass,6.39,Pass,1,Pass,8,Pass,80,Pass,40,Pass,568.11,Pass,137.45,Pass,2.91,Pass
+3,FinPlateTest3,8,42.49,,8.8,2,14,Pass,42.49,Pass,2,Pass,10,Pass,115,Pass,105,Pass,1060.48,Pass,954.43,Pass,7.51,Pass
+4,FinPlateTest4,5,15.21,,9.8,3,8,Pass,15.21,Pass,2,Pass,16,Pass,120,Pass,60,Pass,552.33,Pass,522.29,Pass,13.09,Pass

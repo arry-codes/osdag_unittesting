@@ -1,0 +1,6 @@
+,,Designation,,Tension Yielding Capacity,,Tension Rupture Capacity,,Tension Capacity,,Slenderness Ratio,,Utilization ratio,,Size of Weld,,Weld Strength,,Effective Length,,Gusset Plate Thickness,,Gusset Plate Min Height,,Gusset Plate Length,,Tension Yielding Gusset Plate,,Gusset Plate Block Shear Capacity,
+Sr. No.,OSI File Name,Value ,Test Status,Value ,Test Status,Value ,Test Status,Value ,Test Status,Value ,Test Status,Value ,Test Status,Value ,Test Status,Value ,Test Status,Value ,Test Status,Value,Test Status,Value,Test Status,Value,Test Status,Value,Test Status,Value,Test Status
+1,TensionWeldedTest1,20x20x3,Pass,17.1,Pass,22.35,Pass,17.1,Pass,320.51,Pass,0.41,Pass,3,Pass,401.84,Pass,114,Pass,8,Pass,50,Pass,80,Pass,24,Pass,103.5,Pass
+2,TensionWeldedTest2,40x20x3,Pass,79.09,Pass,100.72,Pass,79.09,Pass,181.16,Pass,0.89,Pass,3,Pass,568.11,Pass,268,Pass,8,Pass,70,Pass,80,Pass,72.73,Pass,188.63,Pass
+3,TensionWeldedTest3,40x20x3,Pass,79.09,Pass,100.72,Pass,79.09,Pass,181.16,Pass,0.89,Pass,3,Pass,473.43,Pass,268,Pass,8,Pass,70,Pass,80,Pass,72.73,Pass,188.62,Pass
+4,TensionWeldedTest4,JC100,Pass,111.15,Pass,136.12,Pass,111.15,Pass,89.29,Pass,0.99,Pass,3,Pass,334.68,Pass,330,Pass,10,Pass,130,Pass,148,Pass,227.27,Pass,488.04,Pass
