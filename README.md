@@ -8,34 +8,21 @@ This repository contains unit tests for the [Osdag](https://github.com/osdag-adm
 *   PyTest
 *   Osdag (cloned to `./Osdag`)
 
-## Setup
-
-```bash
-# Clone this repo
-git clone https://github.com/arry-codes/osdag_unittesting.git
-cd osdag_unittesting
-
-# Clone Osdag source
-git clone https://github.com/osdag-admin/Osdag.git
-
-# Install dependencies
-pip install pytest
-
-# Set PYTHONPATH
-export PYTHONPATH=$PYTHONPATH:$(pwd)/Osdag/src
-```
-
 ## Running Tests
 
 ### Summary Run (12 File-based Checks)
 ```bash
 pytest test_osdag.py::test_consolidated_run
 ```
+<img width="688" height="298" alt="image" src="https://github.com/user-attachments/assets/5c78f3aa-629c-4da4-b266-b26621ee2dab" />
+
 
 ### Detailed Run (48 Granular Checks)
 ```bash
 pytest -v test_osdag.py::TestOsdagModules
 ```
+<img width="688" height="410" alt="image" src="https://github.com/user-attachments/assets/6c8baa76-3d27-474e-a632-fc444837b985" />
+
 
 ### All Tests
 ```bash
