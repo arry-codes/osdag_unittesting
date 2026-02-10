@@ -37,11 +37,8 @@ YouTube : [https://youtu.be/gwHn3yF81h8](https://youtu.be/gwHn3yF81h8)
     pip install pytest
     ```
     
-    Ensure `Osdag` is in your Python path. If you cloned Osdag into a separate directory, add it to `PYTHONPATH`:
-    ```bash
-    export PYTHONPATH=$PYTHONPATH:/path/to/Osdag
-    ```
-    (Or install Osdag dependencies as per its documentation).
+ 4. **Ensure `Osdag` is in your Python path. If you cloned Osdag into a separate directory, add it to `current folder`:
+   
 
 ## Running Tests
 
