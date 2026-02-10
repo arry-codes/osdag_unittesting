@@ -1,6 +1,6 @@
 # Developing unit tests for Osdag using PyTest
 
-This repository contains unit tests for the [Osdag](https://github.com/osdag-admin/Osdag) steel structure design software.
+This repository contains unit tests for verifying the output of Osdag modules (Cleat Angle Connection, Fin Plate Connection, and Tension Member Welded) against expected values derived from manual calculations or reference data.
 
 # Demo Video
 
