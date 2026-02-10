@@ -16,6 +16,34 @@ YouTube : [https://youtu.be/gwHn3yF81h8](https://youtu.be/gwHn3yF81h8)
 *   PyTest
 *   Osdag (cloned to `./Osdag`)
 
+## Installation & Setup
+
+1.  **Clone the Osdag Repository**:
+    ```bash
+    git clone https://github.com/osdag-org/Osdag.git
+    ```
+    *Note: Ensure you are on the correct branch compatible with these tests if applicable.*
+
+2.  **Clone this Test Repository**:
+    ```bash
+    git clone <YOUR_TEST_REPO_URL>
+    cd <YOUR_TEST_REPO_DIRECTORY>
+    ```
+
+3.  **Set up the Environment**:
+    It is recommended to use a virtual environment.
+    ```bash
+    python3 -m venv venv
+    source venv/bin/activate  # On Windows: venv\Scripts\activate
+    pip install pytest
+    ```
+    
+    Ensure `Osdag` is in your Python path. If you cloned Osdag into a separate directory, add it to `PYTHONPATH`:
+    ```bash
+    export PYTHONPATH=$PYTHONPATH:/path/to/Osdag
+    ```
+    (Or install Osdag dependencies as per its documentation).
+
 ## Running Tests
 
 ### Summary Run (12 File-based Checks)
