@@ -26,8 +26,7 @@ YouTube : [https://youtu.be/gwHn3yF81h8](https://youtu.be/gwHn3yF81h8)
 
 2.  **Clone this Test Repository**:
     ```bash
-    git clone <https://github.com/arry-codes/osdag_unittesting.git>
-    cd <YOUR_TEST_REPO_DIRECTORY>
+    git clone https://github.com/arry-codes/osdag_unittesting.git
     ```
 
 3.  **Set up the Environment**:
