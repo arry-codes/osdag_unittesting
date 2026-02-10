@@ -33,7 +33,7 @@ YouTube : [https://youtu.be/gwHn3yF81h8](https://youtu.be/gwHn3yF81h8)
     It is recommended to use a virtual environment.
     ```bash
     python3 -m venv venv
-    source venv/bin/activate  # On Windows: venv\Scripts\activate
+    source venv/bin/activate    #On Windows: venv\Scripts\activate
     pip install pytest
     ```
     
