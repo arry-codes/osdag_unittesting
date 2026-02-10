@@ -6,6 +6,10 @@ This repository contains unit tests for the [Osdag](https://github.com/osdag-adm
 
 YouTube : [https://youtu.be/gwHn3yF81h8](https://youtu.be/gwHn3yF81h8)
 
+# Report
+
+👉🏻 [Click Here for PDF Report](https://drive.google.com/file/d/1m2sZc41Mk9pl2ICUa8mIY4AwC2PrwqIC/view?usp=sharing)
+
 ## Requirements
 
 *   Python 3.10+
