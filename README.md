@@ -8,7 +8,7 @@ This repository contains a comprehensive unit testing suite for verifying the ou
   <img src="https://img.youtube.com/vi/gwHn3yF81h8/maxresdefault.jpg" alt="Watch the Osdag Unit Testing Demo" width="600" />
 </a>
 
-*(Click the image to watch the demo on YouTube)*
+*(Click the image to watch the demonstration on YouTube)*
 
 ## Report
 
