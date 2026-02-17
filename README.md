@@ -63,16 +63,14 @@ Executes a consolidated check where each input file counts as one test case.
 ```bash
 pytest test_osdag.py::test_consolidated_run
 ```
-![Summary Run Output](image.png)
+<img width="688" height="298" alt="image" src="https://github.com/user-attachments/assets/5c78f3aa-629c-4da4-b266-b26621ee2dab" />
 
 ### Detailed Run (48 Granular Checks)
 Expands the test suite to verify individual parameters (e.g., weld strength, bolt capacity) separately for each file.
 ```bash
 pytest -v test_osdag.py::TestOsdagModules
 ```
-<img width="688" height="298" alt="image" src="https://github.com/user-attachments/assets/5c78f3aa-629c-4da4-b266-b26621ee2dab" />
-
-![Detailed Run Output](image1.png)
+<img width="688" height="410" alt="image" src="https://github.com/user-attachments/assets/6c8baa76-3d27-474e-a632-fc444837b985" />
 
 ### All Tests
 ```bash
