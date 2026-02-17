@@ -12,7 +12,7 @@ This repository contains a comprehensive unit testing suite for verifying the ou
 
 ## Report
 
-👉🏻 <a href="./report.pdf" target="_blank">Click Here for detailed PDF Report</a>
+👉🏻 <a href="https://drive.google.com/file/d/1ohmqFRl_oQrWCKTN2KNPt7NblqMGcZ9V/view?usp=sharing" target="_blank">Click Here for detailed PDF Report</a>
 
 ## Technical Implementation
 
