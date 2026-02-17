@@ -70,6 +70,8 @@ Expands the test suite to verify individual parameters (e.g., weld strength, bol
 ```bash
 pytest -v test_osdag.py::TestOsdagModules
 ```
+<img width="688" height="298" alt="image" src="https://github.com/user-attachments/assets/5c78f3aa-629c-4da4-b266-b26621ee2dab" />
+
 ![Detailed Run Output](image1.png)
 
 ### All Tests
